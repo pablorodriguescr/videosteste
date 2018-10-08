@@ -1,0 +1,35 @@
+
+body {
+  background: url(./fundoteste.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+#videoDiv{
+
+
+	margin-left: 300px;
+	margin-top: -70px;
+	margin height: -70%;
+
+
+}
+
+#demotexto{
+
+	
+	text-align: center;
+	
+
+
+
+}
+
+#video{
+
+
+	margin-right: 15%;
+}
